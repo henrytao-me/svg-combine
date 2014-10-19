@@ -1,0 +1,22 @@
+{
+  "name": "svg-combine",
+  "version": "0.0.1",
+  "description": "svg combine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henry Tao <hi@henrytao.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-svg-combine": "^0.1.3"
+  },
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "gulp": "^3.8.8",
+    "gulp-svgstore": "^3.0.0",
+    "libxmljs": "^0.12.0",
+    "lodash": "^2.4.1"
+  }
+}
